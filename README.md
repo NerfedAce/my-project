@@ -1,4 +1,4 @@
-#####build with java
+##### build with java
 ##### build the project
 
     ./gradlew build
@@ -8,6 +8,6 @@
     docker build -t java-app .
     
 ##### push image to repo 
-
+##### credits - code with nana
     docker tag java-app demo-app:java-1.0
     
